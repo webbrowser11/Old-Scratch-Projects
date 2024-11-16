@@ -1,6 +1,5 @@
 # Old Scratch Projects
-/Users/ezragriffes/PycharmProjects/projectfinder/.venv/bin/python /Users/ezragriffes/PycharmProjects/projectfinder/main.py 
-100 is not real
+`100 is not real
 101 is not real
 102 is not real
 103 is not real
@@ -6986,4 +6985,4 @@ shavuot (https://scratch.mit.edu/projects/7082)
 catball (https://scratch.mit.edu/projects/7083)
 nothing much... (https://scratch.mit.edu/projects/7084)
 7085 is not real
-
+`
